@@ -1,0 +1,18 @@
+{
+  "name": "山田 花子",
+  "skills": ["スカウト送信", "日程調整", "候補者選定"],
+  "available": true,
+  "available_time": "平日10:00〜18:00／週10時間程度",
+  "last_active": "2025-07-18",
+  "contact_ok": true,
+  "note": "現職なし、スカウト経験あり（BizReach, Green, Offerbox 他）",
+  "location": "福岡県",
+  "gender": "女性",
+  "dr_media_experience": ["BizReach", "Green", "Wantedly", "OfferBox", "LinkedIn"],
+  "preferred_work_time": ["平日日中", "土日祝日中", "土日祝夜間"],
+  "preferred_contract_type": "月額／時給制（希望：月額10万円〜、時給2000円〜）",
+  "office_visit_possible": false,
+  "ats_experience": true,
+  "direct_recruiting_experience_years": 3,
+  "recruiting_fields": ["エンジニア", "デザイナー", "ゲームプランナー", "バックオフィス"]
+}
